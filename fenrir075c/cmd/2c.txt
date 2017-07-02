@@ -1,0 +1,3 @@
+[.***;
+CopyPath|%W\clip.exe %P
+]

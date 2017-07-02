@@ -1,0 +1,3 @@
+[.***;
+ContextMenu|C:\Programs1\fenrir075c\tcm131120\TCM64.exe /CaretPos "%P"
+]
