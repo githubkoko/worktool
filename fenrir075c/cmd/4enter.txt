@@ -1,7 +1,0 @@
-;[.extension;
-;MenuText|CommandLine|WorkingDirectory|nShow
-;]
-
-[.***;
-ParentDirectory|"%D"
-]
