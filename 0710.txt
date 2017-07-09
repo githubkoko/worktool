@@ -1,0 +1,20 @@
+〇作成方法
+regeditで
+HKEY_CLASSES_ROOT
+└*/shell
+  新規作成でMakeSCを作る SC作成(&G)
+└MakeSC
+  新規作成でcommandを作る 
+  wscript.exe C:\Windows\Script\MakeShortCutToSC.VBS %1
+  
+└folder/shellにも同様の記述を行う
+
+
+〇QT TabBarの設定
+AHKに入れる
+アドレスバー Alt + D
+履歴参照     Alt + F
+フォーカス   Alt + Q
+ツリー       Alt + E
+タブの履歴   Alt + H
+オプション   Alt + O

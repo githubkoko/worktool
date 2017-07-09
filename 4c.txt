@@ -1,0 +1,3 @@
+[.***;
+PPxCopy | C:\Programs1\ppx64155\PPCW.EXE -r -k *file !Copy,,"%P"
+]

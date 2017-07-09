@@ -1,0 +1,8 @@
+#If WinActive("ahk_exe explorer.exe")
+;; –³•ÏŠ· + Q => Ctrl + W
+vk1Dsc07B & q::
+  is_space = 0
+  Send,^w
+  Return
+#IfWinActive
+

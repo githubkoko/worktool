@@ -1,0 +1,6 @@
+[.\\\;
+PPx | C:\Programs1\ppx64155\PPCW.EXE -r "%P"
+]
+[.???;
+PPx | C:\Programs1\ppx64155\PPCW.EXE -r -k %J"%P"
+]
