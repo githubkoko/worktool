@@ -1,0 +1,2 @@
+gi env:path | format-table -autosize
+$env:path += ";C:\Ruby23\bin\"
